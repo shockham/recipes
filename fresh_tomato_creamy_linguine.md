@@ -4,7 +4,7 @@
 Combine in blender:
 - cherry tomatoes
 - courgette
-- sour cream
+- soya yoghurt or oat fraîche
 - fresh basil
 - smoked garlic
 - extra virgin olive oil
@@ -14,4 +14,4 @@ Combine in blender:
 ## Serve
 Mix with sauce:
 - linguine
-- grana padano
+- nutritional yeast
